@@ -1,0 +1,16 @@
+{
+    "name": "Cards",
+    "alias": "cards",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Cards\\Providers\\CardsServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

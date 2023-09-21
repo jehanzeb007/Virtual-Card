@@ -1,0 +1,27 @@
+.form-horizontal .account-details .form-group{margin: 0 0 15px 0;}
+.account-details {
+    border-radius: 3px;
+    margin-bottom: 20px;
+    padding: 10px 15px 5px;
+	border: 1px solid #e9e9e9;
+}
+.account-details h4 {
+    font-family: Open Sans,sans-serif;
+    font-weight: 600;
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+	border-bottom: 1px solid #e9e9e9;
+}
+.account-details .form-groupselect {
+    text-align: left!important;
+    background: #fff;
+    padding-right: 26px;
+}
+.account-details .form-group select {
+    height: 44px;
+    width: 100%;
+    padding-left: 15px;
+}
+.account-details .form-group input, .account-details .form-group select, .account-details .form-group textarea{
+    border: 1px solid #d9d9d9;
+}

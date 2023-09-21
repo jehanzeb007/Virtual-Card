@@ -1,0 +1,25 @@
+{
+    "name": "fleetcart/cards",
+    "description": "",
+    "authors": [
+        {
+            "name": "Mehedi Hassan",
+            "email": "MehediDracula@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Cards\\Providers\\CardsServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Cards\\": ""
+        }
+    }
+}
